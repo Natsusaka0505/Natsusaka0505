@@ -1,5 +1,5 @@
 ### Hi, I'm Natsusaka 👋 
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI3bnA1eXB0MzBqYXZxMmF5Z3QzNHc1NW81NzhvaXd2cmp3Mm1icSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="240" style="border-radius:5%"/>
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI3bnA1eXB0MzBqYXZxMmF5Z3QzNHc1NW81NzhvaXd2cmp3Mm1icSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="266" />
 
 I am a recent graduate developer aspiring to become a full-stack engineer. I am currently working hard towards my goal. If there are collaboration opportunities, please feel free to contact me anytime.
 
