@@ -3,8 +3,8 @@
 
 I am a recent graduate developer aspiring to become a full-stack engineer. I am currently working hard towards my goal. If there are collaboration opportunities, please feel free to contact me anytime.
 
-<span>
 
+<span>
 <img src="https://komarev.com/ghpvc/?username=zero4835&style=flat"  height="25">
 
 <a href="https://www.linkedin.com/in/natsu-saka-ab5665253/#gh-dark-mode-only">
@@ -14,6 +14,7 @@ I am a recent graduate developer aspiring to become a full-stack engineer. I am 
 
 <img src="https://img.shields.io/github/followers/zero4835?style=social" height="25" />
 </span>
+
 
 **languages and tools:**  
 <div>
@@ -27,6 +28,8 @@ I am a recent graduate developer aspiring to become a full-stack engineer. I am 
   <code><img height="20" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/181_Java-512.png"></code>
   <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/512px-Spring_Boot.svg.png"></code>
 </div>
+
+
 
 <br />
 <span>
