@@ -11,6 +11,7 @@ I'm a recent graduate developer with a passion for becoming a full-stack enginee
 </a>
 <img src="https://img.shields.io/github/followers/zero4835?style=social" height="25" />
 </span>
+<br /><br />
 
 Languages and Tools:
 
@@ -27,7 +28,7 @@ Languages and Tools:
 <br />
 
 📈 My stats
-<br />
+
 <span >
 <img src="https://github-readme-stats.vercel.app/api?username=zero4835&show_icons=true&theme=gruvbox" alt="Natsusaka-tech" />
 <img src="https://leetcard.jacoblin.cool/Natsusaka" alt="Natsusaka-leetcode" />
