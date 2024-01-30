@@ -1,5 +1,6 @@
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI3bnA1eXB0MzBqYXZxMmF5Z3QzNHc1NW81NzhvaXd2cmp3Mm1icSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="266" />
 I'm a recent graduate developer with a passion for becoming a full-stack engineer. Currently, I'm dedicated to honing my skills and achieving my goal. Open to collaboration opportunities, so please feel free to reach out!
+<br />
 
 <span>
 <img src="https://komarev.com/ghpvc/?username=zero4835&style=flat"  height="25">
@@ -23,8 +24,11 @@ Languages and Tools:
   <code><img height="20" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/181_Java-512.png"></code>
   <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/512px-Spring_Boot.svg.png"></code>
 </span>
+
 <br />
 <br />
+
+📈 My stats
 <span>
 <img src="https://github-readme-stats.vercel.app/api?username=zero4835&show_icons=true&theme=gruvbox" alt="Natsusaka-tech" width="400"  />
 <img src="https://leetcard.jacoblin.cool/Natsusaka" alt="Natsusaka-leetcode" width="400"  />
