@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI3bnA1eXB0MzBqYXZxMmF5Z3QzNHc1NW81NzhvaXd2cmp3Mm1icSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="266" />
 I'm a recent graduate developer with a passion for becoming a full-stack engineer. Currently, I'm dedicated to honing my skills and achieving my goal. Open to collaboration opportunities, so please feel free to reach out!
-
+<br/ >
 <span>
 <img src="https://komarev.com/ghpvc/?username=zero4835&style=flat"  height="25">
 <a href="https://www.linkedin.com/in/natsu-saka-ab5665253/#gh-dark-mode-only">
