@@ -30,7 +30,7 @@ Languages and Tools:
 
 📈 My stats
 <span>
-<img src="https://github-readme-stats.vercel.app/api?username=zero4835&show_icons=true&theme=gruvbox" alt="Natsusaka-tech" width="400"  />
-<img src="https://leetcard.jacoblin.cool/Natsusaka" alt="Natsusaka-leetcode" width="400"  />
+<img src="https://github-readme-stats.vercel.app/api?username=zero4835&show_icons=true&theme=gruvbox" alt="Natsusaka-tech" width="370"  />
+<img src="https://leetcard.jacoblin.cool/Natsusaka" alt="Natsusaka-leetcode" width="370"  />
 </span>
 <br />
