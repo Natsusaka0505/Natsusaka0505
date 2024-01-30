@@ -9,7 +9,6 @@ I'm a recent graduate developer with a passion for becoming a full-stack enginee
     <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only"
         alt="Connect with me on LinkedIn" height="25" >
 </a>
-<br />
 <img src="https://img.shields.io/github/followers/zero4835?style=social" height="25" />
 </span>
 
