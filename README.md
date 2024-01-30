@@ -24,8 +24,8 @@ Languages and Tools:
 </div>
 <br />
 <br />
-<span>
-<img src="https://github-readme-stats.vercel.app/api?username=zero4835&show_icons=true&theme=gruvbox" alt="Natsusaka-tech" />
-<img src="https://leetcard.jacoblin.cool/Natsusaka" alt="Natsusaka-leetcode" />
-</span>
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=zero4835&show_icons=true&theme=gruvbox" alt="Natsusaka-tech" width="400"  />
+<img src="https://leetcard.jacoblin.cool/Natsusaka" alt="Natsusaka-leetcode" width="400"  />
+</div>
 <br />
