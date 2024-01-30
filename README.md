@@ -9,9 +9,10 @@ I'm a recent graduate developer with a passion for becoming a full-stack enginee
 </a>
 <img src="https://img.shields.io/github/followers/zero4835?style=social" height="25" />
 </span>
+
 Languages and Tools:
 
-<div>
+<span>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -21,11 +22,11 @@ Languages and Tools:
   <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
   <code><img height="20" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/181_Java-512.png"></code>
   <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/512px-Spring_Boot.svg.png"></code>
-</div>
+</span>
 <br />
 <br />
-<div>
+<span>
 <img src="https://github-readme-stats.vercel.app/api?username=zero4835&show_icons=true&theme=gruvbox" alt="Natsusaka-tech" width="400"  />
 <img src="https://leetcard.jacoblin.cool/Natsusaka" alt="Natsusaka-leetcode" width="400"  />
-</div>
+</span>
 <br />
