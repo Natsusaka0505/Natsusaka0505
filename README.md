@@ -1,8 +1,7 @@
 ### Hi, I'm Natsusaka 👋 
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI3bnA1eXB0MzBqYXZxMmF5Z3QzNHc1NW81NzhvaXd2cmp3Mm1icSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="450" height="266" style="border-radius:5%"/>
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI3bnA1eXB0MzBqYXZxMmF5Z3QzNHc1NW81NzhvaXd2cmp3Mm1icSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="240" style="border-radius:5%"/>
 
 I am a recent graduate developer aspiring to become a full-stack engineer. I am currently working hard towards my goal. If there are collaboration opportunities, please feel free to contact me anytime.
-
 
 <span>
 <img src="https://komarev.com/ghpvc/?username=zero4835&style=flat"  height="25">
@@ -14,7 +13,6 @@ I am a recent graduate developer aspiring to become a full-stack engineer. I am 
 
 <img src="https://img.shields.io/github/followers/zero4835?style=social" height="25" />
 </span>
-
 
 **languages and tools:**  
 <div>
@@ -29,8 +27,8 @@ I am a recent graduate developer aspiring to become a full-stack engineer. I am 
   <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/512px-Spring_Boot.svg.png"></code>
 </div>
 
-
-
+<br />
+<br />
 <br />
 <span>
 <img src="https://github-readme-stats.vercel.app/api?username=zero4835&show_icons=true&theme=gruvbox" alt="Natsusaka-tech" />
