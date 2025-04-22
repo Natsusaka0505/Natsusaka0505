@@ -4,12 +4,12 @@ I'm a recent graduate developer with a passion for becoming a full-stack enginee
 <br />
 
 <span>
-<img src="https://komarev.com/ghpvc/?username=zero4835&style=flat"  height="25">
+<img src="https://komarev.com/ghpvc/?username=Natsusaka0505&style=flat"  height="25">
 <a href="https://www.linkedin.com/in/natsu-saka-ab5665253/#gh-dark-mode-only">
     <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only"
         alt="Connect with me on LinkedIn" height="25" >
 </a>
-<img src="https://img.shields.io/github/followers/zero4835?style=social" height="25" />
+<img src="https://img.shields.io/github/followers/Natsusaka0505?style=social" height="25" />
 </span>
 <br /><br />
 
@@ -30,7 +30,7 @@ Languages and Tools:
 📈 My stats
 
 <span >
-<img src="https://github-readme-stats.vercel.app/api?username=zero4835&show_icons=true&theme=gruvbox" alt="Natsusaka-tech" />
+<img src="https://github-readme-stats.vercel.app/api?username=Natsusaka0505&show_icons=true&theme=gruvbox" alt="Natsusaka-tech" />
 <img src="https://leetcard.jacoblin.cool/Natsusaka" alt="Natsusaka-leetcode" />
 </span>
 <br />
