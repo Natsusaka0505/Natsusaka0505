@@ -5,7 +5,7 @@ I'm a recent graduate developer with a passion for becoming a full-stack enginee
 
 <span>
 <img src="https://komarev.com/ghpvc/?username=Natsusaka0505&style=flat"  height="25">
-<a href="https://www.linkedin.com/in/natsu-saka-ab5665253/#gh-dark-mode-only">
+<a href="https://www.linkedin.com/in/%E6%AC%A3%E5%AE%87-%E6%A2%81-ab5665253//#gh-dark-mode-only">
     <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only"
         alt="Connect with me on LinkedIn" height="25" >
 </a>
